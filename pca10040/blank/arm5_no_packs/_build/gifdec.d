@@ -1,0 +1,16 @@
+.\_build\gifdec.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\gif\gifdec.c
+.\_build\gifdec.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\gif\gifdec.h
+.\_build\gifdec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\gifdec.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\gif\../../../misc/lv_fs.h
+.\_build\gifdec.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\gif\../../../misc/../lv_conf_internal.h
+.\_build\gifdec.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\gif\../../../misc/../lv_conf_kconfig.h
+.\_build\gifdec.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\gif\../../../misc/../../../lv_conf.h
+.\_build\gifdec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\gifdec.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\gif\../../../misc/lv_log.h
+.\_build\gifdec.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\gif\../../../misc/lv_types.h
+.\_build\gifdec.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\gif\../../../misc/lv_mem.h
+.\_build\gifdec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\_build\gifdec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\_build\gifdec.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\gif\../../../misc/lv_color.h
+.\_build\gifdec.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\gif\../../../misc/lv_assert.h
+.\_build\gifdec.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\gif\../../../misc/lv_math.h

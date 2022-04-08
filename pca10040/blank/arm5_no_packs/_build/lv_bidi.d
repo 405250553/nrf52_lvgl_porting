@@ -1,0 +1,17 @@
+.\_build\lv_bidi.o: ..\..\..\lvgl\lvgl_driver\src\misc\lv_bidi.c
+.\_build\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\_build\lv_bidi.o: ..\..\..\lvgl\lvgl_driver\src\misc\lv_bidi.h
+.\_build\lv_bidi.o: ..\..\..\lvgl\lvgl_driver\src\misc\../lv_conf_internal.h
+.\_build\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\lv_bidi.o: ..\..\..\lvgl\lvgl_driver\src\misc\../lv_conf_kconfig.h
+.\_build\lv_bidi.o: ..\..\..\lvgl\lvgl_driver\src\misc\../../../lv_conf.h
+.\_build\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\lv_bidi.o: ..\..\..\lvgl\lvgl_driver\src\misc\lv_txt.h
+.\_build\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\_build\lv_bidi.o: ..\..\..\lvgl\lvgl_driver\src\misc\lv_area.h
+.\_build\lv_bidi.o: ..\..\..\lvgl\lvgl_driver\src\misc\../font/lv_font.h
+.\_build\lv_bidi.o: ..\..\..\lvgl\lvgl_driver\src\misc\../font/lv_symbol_def.h
+.\_build\lv_bidi.o: ..\..\..\lvgl\lvgl_driver\src\misc\lv_printf.h
+.\_build\lv_bidi.o: ..\..\..\lvgl\lvgl_driver\src\misc\lv_types.h
+.\_build\lv_bidi.o: ..\..\..\lvgl\lvgl_driver\src\misc\../misc/lv_mem.h
+.\_build\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

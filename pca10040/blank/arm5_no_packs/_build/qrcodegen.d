@@ -1,0 +1,9 @@
+.\_build\qrcodegen.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\qrcode\qrcodegen.c
+.\_build\qrcodegen.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\_build\qrcodegen.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\_build\qrcodegen.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\_build\qrcodegen.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\_build\qrcodegen.o: ..\..\..\lvgl\lvgl_driver\src\extra\libs\qrcode\qrcodegen.h
+.\_build\qrcodegen.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\qrcodegen.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\_build\qrcodegen.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h

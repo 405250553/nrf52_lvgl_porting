@@ -1,0 +1,13 @@
+.\_build\lv_color.o: ..\..\..\lvgl\lvgl_driver\src\misc\lv_color.c
+.\_build\lv_color.o: ..\..\..\lvgl\lvgl_driver\src\misc\lv_color.h
+.\_build\lv_color.o: ..\..\..\lvgl\lvgl_driver\src\misc\../lv_conf_internal.h
+.\_build\lv_color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\lv_color.o: ..\..\..\lvgl\lvgl_driver\src\misc\../lv_conf_kconfig.h
+.\_build\lv_color.o: ..\..\..\lvgl\lvgl_driver\src\misc\../../../lv_conf.h
+.\_build\lv_color.o: ..\..\..\lvgl\lvgl_driver\src\misc\lv_assert.h
+.\_build\lv_color.o: ..\..\..\lvgl\lvgl_driver\src\misc\lv_log.h
+.\_build\lv_color.o: ..\..\..\lvgl\lvgl_driver\src\misc\lv_types.h
+.\_build\lv_color.o: ..\..\..\lvgl\lvgl_driver\src\misc\lv_mem.h
+.\_build\lv_color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\_build\lv_color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\_build\lv_color.o: ..\..\..\lvgl\lvgl_driver\src\misc\lv_math.h
