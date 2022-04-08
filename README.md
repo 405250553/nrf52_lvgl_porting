@@ -18,8 +18,8 @@ graph TD;
      lvgl_driver
      lvgl_port
      end
-     lvgl --> |應用的code|lvgl_app
-     lvgl --> |驅動|lvgl_driver
+     lvgl --> |應用層|lvgl_app
+     lvgl --> |驅動層|lvgl_driver
      lvgl --> |移植層|lvgl_port
      lvgl --> lv_conf.h
      lvgl --> lvgl.h
